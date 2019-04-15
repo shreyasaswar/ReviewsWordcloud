@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - nltk=3.2.4
   - pip:
     - nbgitpuller
     - sphinx-gallery
