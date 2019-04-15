@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - textblob
   - TextBlob
-  - nltk=3.2.4
   - pip:
     - nbgitpuller
     - sphinx-gallery
