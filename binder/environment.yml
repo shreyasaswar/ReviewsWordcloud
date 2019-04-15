@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - textblob
   - nltk=3.2.4
   - pip:
     - nbgitpuller
